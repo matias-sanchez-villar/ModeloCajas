@@ -34,3 +34,27 @@ header {
   margin: 10px;
   background-color: #df4040;
 }
+
+#menu1{
+  width: 260px;
+  height: 50px;
+  float: left;
+  margin: 5px;
+  background-color: #3D0707;
+}
+
+#menu2{
+  width: 260px;
+  height: 50px;
+  float: left;
+  margin: 5px;
+  background-color: #3D0707;
+}
+
+#menu3{
+  width: 260px;
+  height: 50px;
+  float: left;
+  margin: 5px;
+  background-color: #3D0707;
+}
