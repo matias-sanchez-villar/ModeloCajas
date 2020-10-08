@@ -58,3 +58,56 @@ header {
   margin: 5px;
   background-color: #3D0707;
 }
+
+/*
+arrancamos el Footer
+*/
+
+footer{
+  height: 200px;
+  margin-top: 5px;
+  background-color: #e4d6d6;
+}
+
+#menu_{
+  width: 940px;
+  height: 90px;
+  float: left;
+  margin: 10px;
+  margin-top: 30px;
+  background-color: #df4040;
+}
+
+#menu1_{
+  width: 280px;
+  height: 80px;
+  float: left;
+  margin: 5px;
+  background-color: #3D0707;
+}
+
+#menu2_{
+  width: 280px;
+  height: 80px;
+  float: left;
+  margin: 5px;
+  margin-left: 42px;
+  background-color: #3D0707;
+}
+
+#menu3_{
+  width: 280px;
+  height: 80px;
+  float: right;
+  margin: 5px;
+  background-color: #3D0707;
+}
+
+#descripcion{
+  width: 600px;
+  height: 60px;
+  margin-left: auto;
+  margin-right: auto;
+  clear: both;
+  background-color: #df4040;
+}
