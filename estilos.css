@@ -82,9 +82,13 @@ secciones
   height: 150px;
   float: right;
   margin: 25px;
-  border-radius: 50px;
   background-color: #df4040;
 }
+
+#seccion1_ID1_id1{
+  border-radius: 49%;
+}
+
 
 #seccion1_ID1_id2{
   width: 610px;
@@ -98,6 +102,55 @@ secciones
   margin-right: 10px;
   margin-top: 147px;
   border-radius: 50px;
+}
+
+#seccion2{
+  height: 500px;
+  margin-top: 5px;
+  background-color: #e4d6d6;
+}
+
+#seccion2_ID1{
+  margin: 5px;
+  width: 680px;
+  height: 340px;
+  background-color: #3D0707;
+  float: left;
+}
+
+#seccion2_ID2{
+  margin-top: 150px;
+  margin-left: 42px;
+  width: 200px;
+  height: 200px;
+  background-color: #3D0707;
+  float: left;
+  border-radius: 49%;
+}
+
+#seccion2_ID3, #seccion2_ID4, #seccion2_ID5{
+  margin-top: 15px;
+  margin-left: 30px;
+  width: 200px;
+  height: 100px;
+  background-color: #3D0707;
+  float: left;
+  border-radius: 15px;
+}
+
+#seccion2_ID3{
+  margin-left: 10px;
+}
+
+#seccion2_ID4{
+  margin-left: -45px;
+  width: 400px;
+  background-color: #df4040;
+}
+
+#seccion2_ID5{
+  margin-left: -185px;
+  width: 300px;
 }
 
 /*
