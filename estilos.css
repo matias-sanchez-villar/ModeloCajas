@@ -58,6 +58,47 @@ header {
   margin: 5px;
   background-color: #3D0707;
 }
+/*
+secciones
+*/
+
+#seccion1{
+  height: 500px;
+  margin-top: 5px;
+  background-color: #e4d6d6;
+}
+
+#seccion1_ID1, #seccion1_ID2, #seccion1_ID3{
+  width: 310px;
+  height: 490px;
+  margin: 5px;
+  background-color: #3D0707;
+  border-radius: 50px;
+  float: left;
+}
+
+#seccion1_ID1_id1, #seccion1_ID1_id2 , #seccion1_ID1_id3{
+  width: 260px;
+  height: 150px;
+  float: right;
+  margin: 25px;
+  border-radius: 50px;
+  background-color: #df4040;
+}
+
+#seccion1_ID1_id2{
+  width: 610px;
+  margin-right: 10px;
+  margin-top: 325px;
+  border-radius: 50px;
+}
+
+#seccion1_ID1_id3{
+  width: 610px;
+  margin-right: 10px;
+  margin-top: 147px;
+  border-radius: 50px;
+}
 
 /*
 arrancamos el Footer
